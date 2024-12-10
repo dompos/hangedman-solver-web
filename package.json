@@ -1,0 +1,30 @@
+{
+  "name": "hangedman-solver-web",
+  "version": "1.0.0",
+  "description": "Hanged Man game solver with webUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dompos/hangedman-solver-web.git"
+  },
+  "keywords": [
+    "hanged",
+    "man",
+    "solver",
+    "web",
+    "ui"
+  ],
+  "author": "Domenico Posillipo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dompos/hangedman-solver-web/issues"
+  },
+  "homepage": "https://github.com/dompos/hangedman-solver-web#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.16",
+    "typescript": "^5.7.2"
+  }
+}
